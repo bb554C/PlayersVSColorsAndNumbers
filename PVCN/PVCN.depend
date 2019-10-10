@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1512321960 source:c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\src\card.cpp
+	"Card.h"
+	<iostream>
+	<string>
+
+1512128676 c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\include\card.h
+	<iostream>
+	<string>
+
+1512111837 source:c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\src\class.cpp
+	"Class.h"
+
+1512111837 c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\include\class.h
+
+1512373777 source:c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\src\game.cpp
+	"Game.h"
+	"Player.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<vector>
+
+1512365087 c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\include\game.h
+	"Player.h"
+	"Card.h"
+	<iostream>
+	<string>
+
+1512372945 source:c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\src\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1512321966 c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\include\player.h
+	<iostream>
+	<string>
+
+1512364885 source:c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\main.cpp
+	"Game.h"
+	"Player.h"
+	"Card.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<vector>
+
+1512324191 source:c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\new folder\main.cpp
+	"Game.h"
+	"Player.h"
+	"Card.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<vector>
+
+1512324034 c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\new folder\include\game.h
+	"Player.h"
+	"Card.h"
+	<iostream>
+	<string>
+
+1512321964 c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\new folder\include\player.h
+	<iostream>
+	<string>
+
+1512128676 c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\new folder\include\card.h
+	<iostream>
+	<string>
+
+1512321959 source:c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\new folder\src\card.cpp
+	"Card.h"
+	<iostream>
+	<string>
+
+1512324330 source:c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\new folder\src\game.cpp
+	"Game.h"
+	"Player.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<vector>
+
+1512321959 source:c:\users\buenaventura\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\new folder\src\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1512364885 source:c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn (1)\main.cpp
+	"Game.h"
+	"Player.h"
+	"Card.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<vector>
+
+1512365087 c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn (1)\include\game.h
+	"Player.h"
+	"Card.h"
+	<iostream>
+	<string>
+
+1512321966 c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn (1)\include\player.h
+	<iostream>
+	<string>
+
+1512128676 c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn (1)\include\card.h
+	<iostream>
+	<string>
+
+1512321960 source:c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn (1)\src\card.cpp
+	"Card.h"
+	<iostream>
+	<string>
+
+1512526971 source:c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn (1)\src\game.cpp
+	"Game.h"
+	"Player.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<vector>
+
+1512372945 source:c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn (1)\src\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1512364885 source:c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\main.cpp
+	"Game.h"
+	"Player.h"
+	"Card.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<vector>
+
+1512365087 c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\include\game.h
+	"Player.h"
+	"Card.h"
+	<iostream>
+	<string>
+
+1512321966 c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\include\player.h
+	<iostream>
+	<string>
+
+1512128676 c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\include\card.h
+	<iostream>
+	<string>
+
+1512321960 source:c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\src\card.cpp
+	"Card.h"
+	<iostream>
+	<string>
+
+1512625418 source:c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\src\game.cpp
+	"Game.h"
+	"Player.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<vector>
+
+1512372945 source:c:\users\ruth suva\baird buenaventura\school\sy1718\2q\coe113l\sourcecode\codeblocks\lab report\pvcn\src\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
